@@ -1,0 +1,27 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    font-size:30px;
+    margin-top:0px;
+    width:100%;
+}
+
+.heading2{
+    font-size:25px;
+    margin:7px;
+    width:30%;
+}
+
+#status{
+    font-size:25px;
+    margin:7px;
+    width:30%;
+}
+
+#status2{
+    font-size:25px;
+    margin:7px;
+    width:30%;
+}
